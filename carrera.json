@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "distancia": 10,
+    "corredores": [
+      {
+        "id": 1,
+        "velocidad": 12.82,
+        "distanciaRecorrida": 12.82,
+        "tiempos": [
+          {
+            "Tiempo": "Tiempo transcurrido: 1 horas",
+            "distanciaRecorrida": "12.82"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "velocidad": 9,
+        "distanciaRecorrida": 9,
+        "tiempos": [
+          {
+            "Tiempo": "Tiempo transcurrido: 1 horas",
+            "distanciaRecorrida": "9.00"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "velocidad": 8.73,
+        "distanciaRecorrida": 8.73,
+        "tiempos": [
+          {
+            "Tiempo": "Tiempo transcurrido: 1 horas",
+            "distanciaRecorrida": "8.73"
+          }
+        ]
+      }
+    ],
+    "tiempo": 1,
+    "finalizada": true,
+    "ganador": 1
+  }
+]

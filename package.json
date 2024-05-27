@@ -1,0 +1,22 @@
+{
+  "name": "maraton",
+  "version": "1.0.0",
+  "description": "taller",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saidscv23/Maraton.git"
+  },
+  "author": "Said",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saidscv23/Maraton/issues"
+  },
+  "homepage": "https://github.com/saidscv23/Maraton#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
